@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus! :)
 
-## Always coding about what i'm learning
+## :pushpin: Always coding about what i'm learning
 <!--
 **Meiteusz/Meiteusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
