@@ -1,17 +1,18 @@
-### Hi, I'm Matheus! :)
+<h1 align="center">Hi 👋, I'm Matheus Teixeira</h1>  
 
-## :pushpin: Always coding about what i'm learning
-<!--
-**Meiteusz/Meiteusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   <a href="https://www.linkedin.com/in/matheus-teixeira-43b9821b8/">Linkedin</a>
+<p>
 
-Here are some ideas to get you started:
+-  🇧🇷 I'm Brazilean developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning and working **.NET framework/core**  
+  
+- 📫 Reach me **contato.matheuswt@gmail.com**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meiteusz&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meiteusz&layout=compact&theme=dark" alt="top-langs" />
+</p>
