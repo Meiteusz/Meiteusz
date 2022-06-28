@@ -10,7 +10,7 @@
   
 - 📫 Reach me **contato.matheuswt@gmail.com**  
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Meiteusz&theme=dark&show_icons=true" alt="shwetangStats" />  
   <br />
   <br />
