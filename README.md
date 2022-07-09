@@ -4,7 +4,7 @@
    <a href="https://www.linkedin.com/in/matheus-teixeira-43b9821b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <p>
 
--  🇧🇷 I'm Brazilean developer
+-  🇧🇷  I'm Brazilean developer
 
 - 🌱 I’m currently learning and working **.NET framework/core**  
   
