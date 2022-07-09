@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning and working **.NET framework/core**  
   
 - 📫 Reach me **contato.matheuswt@gmail.com**  
+
+- 🔨 Working in a side project with two more peaple. Check >  https://github.com/inoutbusiness <br>
 <br />
 <br />
 <p>
