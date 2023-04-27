@@ -5,9 +5,9 @@
 <a href="https://github.com/Dispo-Empresa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white target="_blank"></a> 
 <p>
 
--  🇧🇷  I'm Brazilean developer
+-  🇧🇷  Brazilean developer
 
-- 🌱 I’m currently learning and working **.NET framework/core**  
+- 🌱 I’m currently learning and working **.NET framework/core** and REACT 
   
 - 📫 Reach me **contato.matheuswt@gmail.com**  
 
