@@ -11,7 +11,7 @@
   
 - 📫 Reach me **contato.matheuswt@gmail.com**  
 
-- 🔨 Working on .NET 7 + React side project with two more peaple. Check >  https://github.com/Dispo-Empresa <br>
+- 🔨 Working on .NET 7 + React side project with three more peaple. Check >  https://github.com/Dispo-Empresa <br>
 <br />
 <br />
 <p>
