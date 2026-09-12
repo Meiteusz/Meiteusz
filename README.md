@@ -12,7 +12,7 @@
 
 ### 🚀 About me
 
-- 💼 Full-stack developer at **Grupo Autoglass - Remote**
+- 💼 Full-stack developer at **Grupo Autoglass (Remote)**
 - 🎓 Systems Analysis & Development (ADS) — **Uninter**
 - 📱 Maintaining **[Aura](https://aura.dispoapps.com.br/)** — a scheduling app for barbershops (Android/iOS)
 - 🤖 Handling a few projects with AI integrations, currently going deeper into **Generative AI**
