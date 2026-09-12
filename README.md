@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer from Blumenau, Brazil 🇧🇷</h3>
 
 <p align="center">
-  <a href="https://portifolio-1eog00a7v-meiteuszs-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.matheusteixeiradev.com.br/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/matheus-teixeira-43b9821b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Meiteusz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:contato.matheuswt@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-xUnit-512BD4?style=flat-square">
   <img src="https://img.shields.io/badge/-Serilog-B4232C?style=flat-square">
 </p>
-
+<!--
 <hr>
 
 ### 🛠️ Tech stack
@@ -99,6 +99,7 @@
   <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white">
 </p>
 
+
 <hr>
 
 ### 📊 GitHub stats
@@ -109,3 +110,4 @@
 <p>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Meiteusz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
 </p>
+-->
